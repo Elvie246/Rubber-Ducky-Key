@@ -1,6 +1,6 @@
 # Welcome to our Rubber-Ducky-Key
 
-## GET stated
+## GET started
 
 ## Description
 
